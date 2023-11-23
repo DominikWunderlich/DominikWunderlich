@@ -8,7 +8,7 @@
 - Dabbling in Groovy for automation and scripting.
 
 🚀 **Key Projects:**
-1. **Conan:** Actively contributing to and working with Conan, a C/C++ package manager. Ensuring seamless dependency management and efficient builds.
+1. **Conan:** Actively working with Conan, a C/C++ package manager. Ensuring seamless dependency management and efficient builds.
 
 2. **DatingSite Web Application:** As part of a study project, I spearheaded the development of a modern and dynamic web application for a dating site. Leveraging my skills in Python and JavaScript, I employed the Flask web framework, Flask-Restx for efficient API development, React for the front end, and MySQL for robust data storage.
 

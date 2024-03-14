@@ -4,8 +4,9 @@
 
 💻 My Coding Arsenal:
 - Most experience in Python, JavaScript, HTML, and CSS.
-- Dabbling in C++ for more intricate projects.
 - Dabbling in Groovy for automation and scripting.
+- Good experience with conan.
+- Moderate experience with Flask and React.
 
 🚀 **Key Projects:**
 1. **Conan:** Actively working with Conan, a C/C++ package manager. Ensuring seamless dependency management and efficient builds.
@@ -16,5 +17,3 @@
 
 🌐 **Connect with me:**
 - [LinkedIn](https://de.linkedin.com/in/dominik-abilio-wunderlich-a807b81b2)
-
-Let's code for a better tomorrow! 🚀

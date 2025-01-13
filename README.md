@@ -1,19 +1,30 @@
-👋 Hi, I'm Dominik!
+👋 Hi, I'm Dominik!  
 
-📚 Currently pursuing a Bachelor's degree in Business Informatics at the University of Media in Stuttgart. I'm passionate about leveraging technology to solve real-world problems and exploring the intersection of business and IT.
+📚 **Business Informatics Enthusiast**  
+I'm currently pursuing a Bachelor's degree in Business Informatics at the University of Media in Stuttgart, with an expected graduation in July 2025. I thrive at the intersection of business and IT, leveraging my skills to create efficient, scalable, and impactful technological solutions.  
 
-💻 My Coding Arsenal:
-- Most experience in Python, JavaScript, HTML, and CSS.
-- Dabbling in Groovy for automation and scripting.
-- Good experience with conan.
-- Moderate experience with Flask and React.
+💻 **Tech Stack Highlights**  
+- **Languages:** Python (most experienced), JavaScript, C++, and some Swift.  
+- **Frameworks:** Flask, React, Conan and Tart (virtualization for CI/CD).  
+- **Tooling:** Groovy for automation scripting and good experience with Conan for dependency management.  
+- **APIs:** Proficient with the Amazon SP API for e-commerce integrations.  
+- **Machine Learning:** Moderate experience, including building models for emotion detection, fall detection, and wine quality prediction (using the SciKit dataset).  
 
-🚀 **Key Projects:**
-1. **Conan:** Actively working with Conan, a C/C++ package manager. Ensuring seamless dependency management and efficient builds.
+🚀 **Notable Projects**  
+- **Conan Dependency Management:** Ensuring efficient builds and seamless dependency management for C/C++ projects. Mainly worked on transition recipes from Conan 1.x to Conan 2.x.
+- **Dating Site Web Application:** Development of a dynamic web app leveraging Python (Flask), Flask-Restx for APIs, React for the front end, and MySQL for backend storage.  
+- **Amazon Reviews Request Automation:** Developing an innovative tool to automate review requests using Amazon SP API, optimizing sellers’ workflows.  
+- **Shopify-Amazon Plugin Integration:** Currently building a software plugin to synchronize reviews from Amazon listings to Shopify stores, enhancing e-commerce experiences.  
+- **Machine Learning Models:**  
+  - Emotion Detection: Developed a real-time model to detect facial expressions using a camera.  
+  - Fall Detection: Built a model to identify if a person is falling, standing, or lying down.  
+  - Wine Quality Prediction: Utilized the SciKit dataset to predict wine quality with machine learning algorithms.  
 
-2. **DatingSite Web Application:** As part of a study project, I spearheaded the development of a modern and dynamic web application for a dating site. Leveraging my skills in Python and JavaScript, I employed the Flask web framework, Flask-Restx for efficient API development, React for the front end, and MySQL for robust data storage.
+🌟 **Additional Skills and Experience**  
+- Hands-on experience with **Tart** virtualization for streamlining CI/CD pipelines, integrating Bitbucket, Jenkins, and Artifactory.  
+- Moderate exposure to **Swift**, showcasing versatility in adapting to new technologies.  
+- Passionate about clean, efficient code and continuously seeking optimization opportunities in software development.  
 
-3. **Amazon Reviews Request Application:** Currently, I'm immersed in the development of a cutting-edge application designed to streamline the automation process of requesting reviews on Amazon, powered by the Amazon Selling Partner API (SP API).
-
-🌐 **Connect with me:**
+🌐 **Let’s Connect!**  
+Feel free to connect with me on LinkedIn or check out my repositories for more insights into my work.
 - [LinkedIn](https://de.linkedin.com/in/dominik-abilio-wunderlich-a807b81b2)

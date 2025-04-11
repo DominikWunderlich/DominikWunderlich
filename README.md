@@ -22,7 +22,6 @@ I'm currently pursuing a Bachelor's degree in Business Informatics at the Univer
 
 🌟 **Additional Skills and Experience**  
 - Hands-on experience with **Tart** virtualization for streamlining CI/CD pipelines, integrating Bitbucket, Jenkins, and Artifactory.  
-- Moderate exposure to **Swift**, showcasing versatility in adapting to new technologies.  
 - Passionate about clean, efficient code and continuously seeking optimization opportunities in software development.  
 
 🌐 **Let’s Connect!**  
